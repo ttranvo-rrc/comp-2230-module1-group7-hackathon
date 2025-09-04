@@ -4,25 +4,27 @@
 
 Group 7 will be creating an HTML website on Pizza, add elements to their own individual sections to demonstrate Module 01
 
-## Team Members:
+## Team Members
 
--   Presley McFarlane-Goolcharan
--   Tri Tranvo
--   Charlene Guzman
+- Presley McFarlane-Goolcharan
 
-## Member Contributions:
+- Tri Tranvo
 
-### Name 1:
+- Charlene Guzman
 
--   Created deep dish section, added video, images and description
--   Created project documentation
+## Member Contributions
 
-### Name 2:
+### Presley McFarlane-Goolcharan
 
--   Created neapolitan section, added video, images and description
--   Created github repository and HTML structure.
+- Created deep dish section, added video, images and description
+- Created project documentation
 
-### Name 3:
+### Tri Tranvo
 
--   Created hawaiian pizza section, added video, images and description
--   Organized HTML elements
+- Created neapolitan section, added video, images and description
+- Created github repository and HTML structure.
+
+### Charlene Guzman
+
+- Created hawaiian pizza section, added video, images and description
+- Organized HTML elements
